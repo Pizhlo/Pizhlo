@@ -5,7 +5,7 @@
 </div>
 
 <h2>ɪ ʟᴏᴠᴇ ɪɴᴛᴇʀᴇꜱᴛɪɴɢ ᴘʀᴏᴊᴇᴄᴛꜱ ᴛʜᴀᴛ ᴄᴏɴᴛᴀɪɴ ᴀ ᴄʜᴀʟʟᴇɴɢᴇ ꜰᴏʀ ᴍᴇ. <br>
-  ᴅᴏ ʏᴏᴜ ʜᴀᴠᴇ ᴏɴᴇ? <a href="https://t.me/pingwin11111">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </a></h2>
+  ᴅᴏ ʏᴏᴜ ʜᴀᴠᴇ ᴏɴᴇ? <a href="https://t.me/iloveprogramming">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </a></h2>
 
   <h2 align="center">My tech stack: </h2>
 
